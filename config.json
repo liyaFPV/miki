@@ -1,0 +1,6 @@
+{
+    "command_dir": "command",
+    "speaker": "baya",
+    "device":"cpu",
+    "gpt_api":""
+}
