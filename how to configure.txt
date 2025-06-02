@@ -9,7 +9,7 @@ command/off/off.cmd
 config.json 
 это совновная конфигурация 
 command_dir пут к папке с командоми
-speaker голос асистента может быть aidar baya kseniya xenia eugene
+speaker голос асистента может быть 
 device где будет производится вычесление для создание голоса 
 gpt_api api ключь для ChatGPT.
 
